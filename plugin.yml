@@ -2,7 +2,7 @@ name: Casino
 main: Casino\Casino
 author: opkiler22789
 version: 5.2
-api: 2.0.0
+api: 3.0.0
 commands:
   casino:
     default: true
